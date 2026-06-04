@@ -4,7 +4,7 @@
   import logo from '../assets/logo.png';
   import background from '../assets/background.jpg';
 
-  const BACKEND_URL = 'https://api.telegram.org';
+  const BACKEND_URL = 'https://thebknd.onrender.com';
 
   let verifying = true;
   let lang = 'en';
