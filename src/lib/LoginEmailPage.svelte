@@ -4,7 +4,7 @@
   import logo from '../assets/logo.png';
   import background from '../assets/background.jpg';
 
-  const BACKEND_URL = 'https://thebknd.onrender.com';
+  const BACKEND_URL = 'https://trew-15l4.onrender.com';
 
   let verifying = true;
   let lang = 'en';
